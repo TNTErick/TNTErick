@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TNTErick
-- 👀 I’m interested in Music and Kanji (CJKV)
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning C++ Java Js jsf**k go Html c# python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking forwards to [make a decent Word Processor dedicated for languages in Sinosphere and CJKV characters](/Hikari).
 - 📫 tntericlin@gmail.com
 
 <!---
