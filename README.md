@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TNTErick
 - 👀 I’m interested in Music and Kanji (CJKV)
-- 🌱 I’m currently learning C++ Java Js jsf**k go Html c#
+- 🌱 I’m currently learning C++ Java Js jsf**k go Html c# python
 - 💞️ I’m looking to collaborate on ...
 - 📫 tntericlin@gmail.com
 
