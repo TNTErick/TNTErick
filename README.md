@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TNTErick
 - 🌱 I’m currently learning C++ Java Js jsf**k go Html c# python
-- 💞️ I’m looking forwards to [make a decent Word Processor dedicated for languages in Sinosphere and CJKV characters](https://github.com/TNTErick/Hikari/).
+- 💞️ I’m looking forwards to be better in codings and make a lot things I want to make.
 - 📫 tntericlin@gmail.com
 - 👀 My full Self-introductory stuff is [here](https://hackmd.io/@XYQZ/me).
 <!---
